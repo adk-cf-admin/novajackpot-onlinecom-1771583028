@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://novajackpot-online.com/
+Sitemap: https://novajackpot-online.com/sitemap.xml

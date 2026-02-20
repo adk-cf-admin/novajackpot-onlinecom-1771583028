@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#160932",
+            "lang-select-color": "#222829",
+            "bg-light": "#030A0A",
+            "welcome-bonus-bg": "#160932",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#230e50",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#F6DDFF",
+            "text-head": "#000000",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FBDE59",
+            "yellow": "#F6DDFF",
+            "yellow-button": "#FBDE59",
+            "button-text": "#000000",
+            "main-button-text": "#000000",
+            "border-color": "#efefdc",
+            "casino-cards": "#160932",
+            "bonus-border-head": "#000000",
+            "bonus-border": "#ffffff",
+            "providers-back": "#160932",
+            "faq-label": "#160932",
+            "bg-footer": "#160932",
+            "copyright": "#e7e7d5",
+            "starColor": "#FBDE59",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3337"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3338",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "NovaJackpot Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3339",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "NovaJackpot"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "NovaJackpot",
+                    "title": "NovaJackpot — Best Online Casino Australia | AUD Bonus",
+                    "description": "Play at NovaJackpot Australia: 3000+ licensed slots, live casino, sports betting in AUD & welcome bonus with free spins. Trusted operator. Join today!\n",
+                    "canonical": "novajackpot-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3340",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "novajackpot-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3341"
+                },
+                "hero": {
+                    "title": "Australia's Premier Online Casino & Sportsbook",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3342",
+                    "imageSizeModifier": 5,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3343",
+                    "mobileImageSizeModifier": 2,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Australia? We operate as a fully licensed gaming platform with certified software providers, AUD-friendly payments, and 24\/7 English-speaking support. Here's why Australian players choose NovaJackpot:\n",
+                    "items": [
+                        "Licensed casino with certified RNG by independent auditors for fair play",
+                        "3000+ games from Evolution, Pragmatic Play, NetEnt, Microgaming & Playtech",
+                        "AUD deposits via Visa, Mastercard, e-wallets & crypto — instant processing",
+                        "Welcome Bonus: 100% deposit match + free spins for Australian players",
+                        "24\/7 live chat support in English for all Australian players",
+                        "Weekly tournaments with prize pools up to AU$62,000 for AU players"
+                    ],
+                    "advantagesAfterText": "Join thousands of satisfied Australian players enjoying secure, certified gaming at NovaJackpot. Our dedicated English-speaking support team is ready to assist you 24\/7, every day of the year.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "NovaJackpot App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3344",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "NovaJackpot App",
+                    "mobileGooglePlayImageTitle": "NovaJackpot App",
+                    "mobileIosImageTitle": "NovaJackpot App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About NovaJackpot Casino",
+                        "description1": "We are NovaJackpot — a premier online casino and sportsbook serving Australian players with thousands of certified games. Licensed and fully regulated, we deliver fair, secure, and exciting gaming experiences tailored for the Australian market.\n",
+                        "items": [
+                            "Launched full online casino platform for Australian players",
+                            "Added live sportsbook with 30+ sports and virtual events",
+                            "Partnership with Evolution Gaming for premium live dealer studios",
+                            "Achieved certified RNG and independent fair play audit approval"
+                        ],
+                        "description2": "We operate under a valid gaming licence with SSL 256-bit encryption protecting 100% of transactions. All games are tested by certified independent auditors for random, fair outcomes every session.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3345",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep expanding our game portfolio and exclusive promotions for Australian players. Our responsible gaming tools ensure safe play. Join NovaJackpot today and experience world-class online gambling in Australia!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Casino Games Guide for Australians",
+                        "description": "<h2>Complete Casino Games Guide for Australian Players at NovaJackpot<\/h2>\n\n<p>At NovaJackpot, we offer one of the most comprehensive gaming libraries available to Australian players, featuring over 3,000 certified titles across every major category. Whether you prefer spinning the reels on high-volatility slots, testing your strategy at live blackjack tables, or wagering on your favourite sports, our platform delivers a premium experience tailored for Australians. Our game catalogue is powered by 10+ world-renowned providers — including Evolution Gaming, Pragmatic Play, NetEnt, Microgaming, Playtech, Play'n GO, Red Tiger, Yggdrasil, Booongo, and BetGamesTV — ensuring every session offers certified fair play, independently audited RNG outcomes, and immersive HD-quality entertainment accessible from any device.<\/p>\n\n<h3>Online Slots: Thousands of Titles for Australian Spinners<\/h3>\n\n<p>Looking for the best online slots in Australia? Our slots library exceeds 2,500 titles, ranging from classic 3-reel fruit machines to cutting-edge video slots with cascading reels, megaways mechanics, and buy-bonus features. Australian players enjoy exclusive access to titles like Gates of Olympus (Pragmatic Play, RTP 96.5%), Book of Dead (Play'n GO, RTP 96.21%), Gonzo's Quest (NetEnt, RTP 96%), and the legendary Mega Moolah (Microgaming) — one of the world's biggest progressive jackpots, with prizes regularly exceeding AUD 10 million. Every slot on our platform is certified by independent testing laboratories to guarantee random outcomes and fair return-to-player percentages. Our slot games are fully optimised for Australian mobile users, running smoothly on all iOS and Android devices without requiring any downloads.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic & Video Slots:<\/strong> Over 2,000 titles from NetEnt, Microgaming, and Pragmatic Play featuring 3-reel classics, 5-reel video slots, and cinematic story-driven experiences with certified RTP values averaging 95–97%.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Slots:<\/strong> Dynamic reel-changing mechanics with up to 117,649 ways to win. Top titles include Bonanza Megaways (Big Time Gaming, RTP 96%), Extra Chilli Megaways, and Barbarian Fury Megaways — loved by Australian high-rollers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Slots:<\/strong> Life-changing jackpot pools including Mega Moolah, Major Millions, and Divine Fortune. Australian players have the opportunity to win multi-million AUD jackpots on every spin, with jackpots triggered randomly and verified by eCOGRA.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Buy Bonus Slots:<\/strong> Skip straight to the action with bonus-buy features available on titles like Razor Shark (Push Gaming), Mental (Nolimit City), and Wanted Dead or a Wild. Available for eligible Australian accounts.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>New Releases:<\/strong> We update our slot library weekly with the latest releases from all major providers. Australian players get day-one access to new titles, often with exclusive launch free spins promotions through our Drops & Wins programme.<\/li>\n<\/ul>\n\n<h3>Live Casino Experience: Real Dealers Streaming to Australia<\/h3>\n\n<p>Our live casino section brings the authentic atmosphere of a premium casino floor directly to Australian players, 24 hours a day. Powered primarily by Evolution Gaming — the world's leading live casino software provider — we offer over 200 live dealer tables streamed in crystal-clear HD from professional studios. Additionally, Pragmatic Play Live and BetGamesTV contribute unique live dealer formats that appeal to Australian betting enthusiasts. All live games are accessible from desktop, tablet, and mobile without any degradation in streaming quality, ensuring Australians enjoy the same experience regardless of their device or connection speed.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> European Roulette (RTP 97.3%), Lightning Roulette with multipliers up to 500x, American Roulette, French Roulette with La Partage rule, and Immersive Roulette with super-slow-motion ball tracking. Betting limits start from AUD 1 per spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Blackjack (RTP 99.5%), Infinite Blackjack with unlimited seats, Lightning Blackjack with random multipliers, and VIP Blackjack with limits up to AUD 25,000 per hand. All tables feature professional English-speaking dealers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat for rapid rounds, Baccarat Squeeze for dramatic card reveals, and No Commission Baccarat. Popular among Australian high-rollers seeking elegance and fast gameplay.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Crazy Time (max win 20,000x), Monopoly Live, Mega Ball, Dream Catcher, and Deal or No Deal Live. These interactive game show formats are among the most popular live casino experiences for Australian entertainment seekers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker:<\/strong> Three Card Poker, Caribbean Stud Poker with progressive jackpots, Casino Hold'em (RTP 100.5% with side bets), and Texas Hold'em Bonus. Available in standard and VIP rooms with English-speaking dealers throughout.<\/li>\n<\/ul>\n\n<h3>Table Games & Specialty: Strategy Meets Entertainment<\/h3>\n\n<p>Beyond live dealer games, our platform offers an extensive range of RNG-powered table games suitable for all experience levels. Australian players can access dozens of blackjack, roulette, baccarat, poker, and craps variations at any betting limit. Our RNG table games are tested and certified to deliver the same statistical fairness as their physical counterparts, making them ideal for strategy-focused players who prefer controlling the pace of the game. Furthermore, our specialty games section includes scratch cards, virtual sports, keno, and lottery-style games for players seeking variety beyond traditional casino formats.<\/p>\n\n<h3>Sports Betting & Virtual Sports for Australian Punters<\/h3>\n\n<p>NovaJackpot is not just an online casino — we are also a fully licensed online sportsbook serving Australian punters with competitive odds across 30+ sports. Football, tennis, cricket (a favourite among Australian sports bettors), rugby league, AFL, golf, boxing, MMA, cycling, and horse racing are all covered with in-play live betting and pre-match wagering. Additionally, we provide an extensive virtual sports section featuring V-Football, Virtual NBA, V-Horses, V-League, V-EURO, VF-Bundesliga, and many more — available around the clock so Australian players never have a moment without action. Our horse racing and greyhound racing markets cater specifically to Australian punters who follow the nation's iconic racing calendar.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>AFL & Cricket Markets:<\/strong> Dedicated Australian Football League and Cricket Australia betting markets with match winner, handicap, and player prop bets available throughout the season, complete with in-play live wagering.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Horse & Greyhound Racing:<\/strong> Bet on Australian racing events from major tracks including Royal Randwick, Flemington, and Rosehill, plus international meetings from the UK, Ireland, and the USA with full race card information.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live In-Play Betting:<\/strong> Wager on live sporting events with real-time odds updates, cash-out functionality, and same-game multi options across football, tennis, cricket, and basketball markets available to Australian accounts.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Virtual Sports:<\/strong> 24\/7 virtual competitions including V-Football, V-Horses, Virtual NBA, V-Table Tennis, and V-Motor — with fast-paced rounds completed in minutes, perfect for Australian players between live sport fixtures.<\/li>\n<\/ul>\n\n<h3>Tournaments & Competitive Gaming for Australians<\/h3>\n\n<p>Want to compete against other players and win massive prizes? Our tournament programme runs continuously, offering Australian players regular opportunities to claim enormous prize pools. We host weekly slot tournaments, bi-weekly live casino competitions, and monthly mega-events with prize pools reaching AU$62,000. Our Drops & Wins promotions, powered by Pragmatic Play and Evolution Gaming, distribute guaranteed prize drops across thousands of qualifying spins daily. All Australian players, regardless of VIP status, can participate in open tournaments — simply opt in, meet the qualifying criteria, and climb the leaderboard to claim your share of the prize pool. Tournament results are verified independently and winnings are credited to your account within 24 hours of the competition's conclusion.<\/p>\n\n<h3>Mobile Casino: Play Anywhere Across Australia<\/h3>\n\n<p>Our entire gaming platform is fully optimised for mobile play, enabling Australian users to enjoy the complete NovaJackpot experience from any smartphone or tablet. Whether you're using an iPhone 15, Samsung Galaxy, or iPad, our mobile casino adapts seamlessly to your screen size without requiring any app download from the App Store or Google Play. The mobile experience includes the full slots library, all live dealer tables, the sportsbook, promotional hub, and VIP shop — ensuring you never miss a game or a bonus opportunity while on the go across Australia. Mobile loading speeds are optimised for both Wi-Fi and 4G\/5G connections, with games launching in under 3 seconds on modern Australian mobile networks.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking, Bonuses & VIP Rewards in Australia",
+                        "description": "<h2>Banking, Bonuses & VIP Rewards for Australian Players at NovaJackpot<\/h2>\n\n<p>At NovaJackpot, we understand that Australian players need fast, reliable, and fee-free banking options combined with rewarding bonus structures to get the most from their online casino experience. Our financial infrastructure is designed specifically to serve the Australian market, supporting AUD transactions across a wide range of trusted deposit and withdrawal methods. Moreover, our multi-tiered bonus ecosystem — from the generous Welcome Bonus to ongoing weekly promotions and an exclusive VIP programme — ensures that every Australian player at NovaJackpot is consistently rewarded for their loyalty and gameplay. All transactions are protected by SSL 256-bit encryption, and our payment systems comply with strict anti-money laundering protocols to guarantee the safety of every Australian account holder.<\/p>\n\n<h3>Deposit Methods Available to Australian Players<\/h3>\n\n<p>Making a deposit at NovaJackpot is quick, easy, and secure. We support all major payment methods preferred by Australian players, including Visa, Mastercard, popular e-wallets, bank transfers, and cryptocurrency options. AUD deposits are processed instantly in most cases, meaning your funds are available in your casino account within seconds of confirmation. We do not charge any deposit fees, and our minimum deposit threshold is designed to be accessible for all levels of Australian players. Furthermore, our payment gateway uses PCI-DSS Level 1 compliant infrastructure to ensure your financial data is never compromised during any transaction.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #f4d03f;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Fee<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #050505;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151515;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #050505;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151515;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bitcoin (BTC)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">~10 min<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #050505;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Ethereum (ETH)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">~5 min<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Free<\/td>\n    <\/tr>\n    <tr style=\"background-color: #151515;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1–3 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Free<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>How to Withdraw Your Winnings as an Australian Player?<\/h3>\n\n<p>Withdrawing your winnings at NovaJackpot is straightforward and fast. Simply navigate to the cashier section, select your preferred withdrawal method, enter the amount you wish to cash out, and confirm the transaction. E-wallet withdrawals to Skrill and Neteller are typically processed within 2–4 hours, while card withdrawals to Visa and Mastercard take 1–5 business days depending on your Australian bank's processing times. Cryptocurrency withdrawals — particularly Bitcoin and Ethereum — are among the fastest options, often completing within 30 minutes to 2 hours after approval. All withdrawal requests are subject to standard identity verification (KYC), which is a one-time process designed to protect your Australian account and ensure compliance with anti-fraud regulations. VIP members enjoy priority withdrawal processing, ensuring high-value Australian players receive their funds even faster.<\/p>\n\n<h3>Welcome Bonus for New Australian Players<\/h3>\n\n<p>New Australian players at NovaJackpot are greeted with one of the most rewarding welcome packages available in the market. Our Welcome Bonus matches your first deposit, delivering instant bonus credit to your account along with a generous allocation of free spins to explore our extensive slots library. The sports betting welcome offer doubles your initial sports wager capability, giving Australian punters extra firepower to bet on AFL, cricket, horse racing, and all other favourite Australian sports from day one. Both welcome offers are available to all newly registered Australian accounts and are credited automatically upon qualifying deposit, with no promo code required. Standard wagering requirements apply and are clearly displayed in the full terms and conditions accessible on our promotions page.<\/p>\n\n<h3>Ongoing Promotions: Reload Bonuses, Cashbacks & More<\/h3>\n\n<p>The rewards at NovaJackpot extend far beyond the initial welcome offer. Australian players benefit from a rich calendar of weekly and ongoing promotions designed to maximise every session's value. Our Weekly Reload Bonus adds extra funds to your mid-week deposits, while the Weekend Reload Bonus ensures your Friday and Saturday gaming sessions start with a significant boost. Additionally, our Weekly Cashback and Live Cashback programmes return a percentage of your net losses directly to your account — a genuine safety net appreciated by Australian players who engage regularly with both our casino and sportsbook. Sport-specific promotions including Accumulator Boosts, Bore Draw Stakebacks, Sport Jackpots, and Early Payouts provide Australian punters with exclusive value-adding features unavailable at most competing platforms.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Reload Bonus:<\/strong> Deposit mid-week and receive a percentage bonus on your top-up, credited instantly to your NovaJackpot account. Available to all Australian players who have completed account verification.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly & Live Cashback:<\/strong> Receive a percentage of net losses back into your account every week. Live Cashback specifically applies to live casino wagers, giving Australian live dealer enthusiasts a reliable return on investment.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Drops & Wins:<\/strong> Pragmatic Play-powered daily and weekly prize drops distributed across thousands of qualifying slot spins. Australian players can win random cash prizes without any additional opt-in requirement beyond playing eligible games.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Sport Jackpots & Accumulator Boosts:<\/strong> Place accumulator bets on live sport events and benefit from enhanced odds and jackpot opportunities. Bore Draw Stakeback protects Australian punters from the most frustrating sporting outcomes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Early Payouts:<\/strong> Cash out your sports bets early when your selection goes into a winning position, securing guaranteed returns before the final whistle — an especially valuable feature for Australian cricket and AFL bettors.<\/li>\n<\/ul>\n\n<h3>NovaJackpot VIP Programme: Elite Rewards for Australian High-Rollers<\/h3>\n\n<p>Our exclusive VIP programme is designed to reward the most dedicated Australian players with privileges unavailable to the general player base. VIP membership unlocks a range of escalating benefits that increase in value as you progress through the loyalty tiers, ensuring your commitment to NovaJackpot is always matched with commensurate rewards. Australian VIP members receive the highest withdrawal limits on the platform, priority customer support handled by a dedicated personal account manager, and access to exclusive VIP-only promotions and tournaments with elevated prize pools. The VIP Shop further enhances the experience, allowing members to redeem loyalty points earned through gameplay for bonus credits, free spins, merchandise, and other exclusive rewards curated specifically for high-value Australian players.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Personal Account Manager:<\/strong> Every Australian VIP member is assigned a dedicated personal manager who provides tailored promotions, withdrawal assistance, and priority support via direct communication channels.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Higher Withdrawal Limits:<\/strong> VIP status unlocks significantly elevated withdrawal caps compared to standard accounts, ensuring high-volume Australian players can access large winnings without delay or restriction.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Exclusive VIP Cashback:<\/strong> Enhanced cashback rates exclusive to VIP tiers, returning a greater percentage of net losses and providing superior bankroll management support for serious Australian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>VIP Shop Access:<\/strong> Browse and redeem loyalty points in the NovaJackpot Shop — a daily-refreshing reward hub offering bonus credits, free spins, and exclusive Australian player rewards based on your accumulated gameplay points.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Priority Withdrawals & Special Events:<\/strong> VIP Australian players receive expedited withdrawal processing and invitations to exclusive events, including high-stakes tournaments with prize pools reserved exclusively for the VIP tier.<\/li>\n<\/ul>\n\n<h3>Responsible Gaming Tools for Australian Players<\/h3>\n\n<p>We are firmly committed to responsible gambling and take the welfare of our Australian players seriously. NovaJackpot provides a comprehensive suite of responsible gaming tools that empower players to maintain full control over their gambling activity at all times. Australian players can set personalised deposit limits, session time reminders, wagering limits, and loss limits directly from their account settings, ensuring they never exceed their personal comfort threshold. Self-exclusion options are also available for players who wish to take a break from gambling, with temporary cooling-off periods or permanent exclusions both supported. We encourage all Australian players to gamble responsibly and to reach out to our 24\/7 support team or refer to organisations such as Gambling Help Online (Australia) if they feel their gambling is becoming harmful.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is NovaJackpot Casino safe and licensed for Australian players?",
+                            "answer": "Yes, NovaJackpot is a fully licensed and certified online casino operating under a valid gaming licence. We use SSL 256-bit encryption to protect all transactions and personal data. All games are independently audited for fair, random outcomes. Australian players can gamble with complete confidence in our security infrastructure.\n"
+                        },
+                        {
+                            "title": "What payment methods do you accept for Australian players?",
+                            "answer": "We accept Visa, Mastercard, Skrill, Neteller, bank transfers, Bitcoin, Ethereum, and other cryptocurrencies for Australian players. All deposits are processed in AUD with no fees charged. E-wallet deposits are instant, while bank transfers take 1–3 business days. Contact our 24\/7 live chat for help with any payment query.\n"
+                        },
+                        {
+                            "title": "How do I claim my welcome bonus at NovaJackpot Casino?",
+                            "answer": "Register your Australian account, complete identity verification, and make your first qualifying deposit. Your welcome bonus — a deposit match plus free spins — is credited automatically within minutes. No promo code is required. Wagering requirements apply; full terms are available on our promotions page. Our 24\/7 support team can assist via live chat anytime.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take to Australian bank accounts?",
+                            "answer": "E-wallet withdrawals via Skrill or Neteller typically process within 2–4 hours after approval. Visa and Mastercard withdrawals to Australian bank accounts take 1–5 business days. Cryptocurrency withdrawals complete within 30 minutes to 2 hours. VIP members receive priority processing for faster access to their winnings.\n"
+                        },
+                        {
+                            "title": "Can I bet on AFL and cricket at NovaJackpot Sportsbook?",
+                            "answer": "Absolutely — we offer comprehensive AFL and Cricket Australia betting markets with match winner, handicap, and player prop bets. In-play live betting is available throughout the season for both sports. We also cover horse racing and greyhound racing from major Australian tracks including Flemington and Royal Randwick.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile in Australia?",
+                            "answer": "Yes, all live dealer games at NovaJackpot are fully optimised for Australian mobile users. No app download is required — simply open our platform in your mobile browser on any iOS or Android device. All 200+ live tables from Evolution Gaming and Pragmatic Play Live are available in HD quality on smartphones and tablets across Australia.\n"
+                        },
+                        {
+                            "title": "What is the NovaJackpot VIP programme and how do I join?",
+                            "answer": "FAQ Answer 1Our VIP programme rewards loyal Australian players with a personal account manager, higher withdrawal limits, exclusive cashback rates, and access to the NovaJackpot Shop. VIP status is earned through regular gameplay — the more you play, the faster you progress. VIP members also receive invitations to exclusive high-stakes tournaments reserved for elite Australian players.\n"
+                        },
+                        {
+                            "title": "What tournaments does NovaJackpot offer to Australian players?",
+                            "answer": "We run weekly slot tournaments, bi-weekly live casino competitions, and monthly mega-events with prize pools up to AU$62,000. Drops & Wins promotions distribute daily cash prizes across qualifying slots. All Australian players can participate — simply opt in, meet the qualifying criteria, and compete on the leaderboard. Winnings are credited within 24 hours of each tournament's conclusion.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
